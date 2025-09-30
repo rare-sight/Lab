@@ -20,7 +20,7 @@
         ###Answers###
 
 #Q1
-name <- Ashraf
+name <- Nikhil
 age <- 20
 is_student <-TRUE
 
